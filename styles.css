@@ -1,0 +1,73 @@
+* { box-sizing: border-box; }
+
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  line-height:1.6;
+  color:#111;
+}
+
+.site-header{
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid #e6e6e6;
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  padding: 14px 22px;
+}
+
+.site-header .logo{
+  font-weight: 800;
+  letter-spacing: .5px;
+}
+
+.site-header nav a{
+  margin-left: 14px;
+  text-decoration:none;
+  color:#333;
+}
+
+.site-header nav a:hover{
+  text-decoration: underline;
+}
+
+main{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 36px 22px 70px;
+}
+
+.hero{
+  padding: 20px 0 10px;
+  margin-bottom: 40px;
+}
+
+.subtitle{
+  letter-spacing: 0.3px;
+  margin: 6px 0 10px;
+  color:#555;
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.lead{
+  max-width: 70ch;
+  color:#444;
+}
+
+section{
+  margin-top: 60px;
+}
+
+#projects {
+  background: #e9edf2; /* smoky blue-gray */
+  padding: 60px 0;
+}
+.projects-inner {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 22px;
+}
+
