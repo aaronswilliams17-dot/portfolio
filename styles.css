@@ -137,3 +137,19 @@ section{
   }
 }
 
+.project-links {
+  margin-top: 12px;
+}
+
+.project-links a {
+  margin-right: 14px;
+  text-decoration: none;
+  border-bottom: 1px solid #b9c0c7;
+  color: #111;
+  font-weight: 500;
+}
+
+.project-links a:hover {
+  border-bottom-color: #111;
+}
+
