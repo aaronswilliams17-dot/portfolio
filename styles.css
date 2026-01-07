@@ -152,4 +152,10 @@ section{
 .project-links a:hover {
   border-bottom-color: #111;
 }
+footer {
+  background: yellow !important;
+  color: black !important;
+  min-height: 60px;
+  display: block;
+}
 
