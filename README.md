@@ -4,7 +4,7 @@ This repository contains my personal web development portfolio, built with **HTM
 
 The portfolio highlights real-world projects I’ve built and worked on, with a focus on clean layout, usability, and practical problem-solving.
 
-🔗 **Live Site:** https://YOURUSERNAME.github.io/portfolio/
+🔗 **Live Site:** https://aaronswilliams17-dot.github.io/portfolio/
 
 ---
 
@@ -56,7 +56,7 @@ Healthcare website designed to feel calm, professional, and welcoming.
 If you’d like to connect or learn more about my work:
 
 📧 Email: aaronswilliams17@gmail.com  
-🔗 Portfolio: https://YOURUSERNAME.github.io/portfolio/
+🔗 Portfolio: https://aaronswilliams17-dot.github.io/portfolio/
 
 ---
 
