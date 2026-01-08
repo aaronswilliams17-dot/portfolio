@@ -202,6 +202,38 @@ footer {
   flex-direction: column;
   gap: 2.5rem; /* space between cards */
 }
+/* =========================
+   Skills Section
+   ========================= */
+
+.skills {
+  margin-top: 3rem;
+}
+
+.skills-group {
+  margin-bottom: 1.5rem;
+}
+
+.skills-group h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.skills-group p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+}
+@media (max-width: 600px) {
+  .skills-group h3 {
+    font-size: 0.95rem;
+  }
+
+  .skills-group p {
+    font-size: 1rem;
+  }
+}
 
 /* =========================
    Tag Pills
