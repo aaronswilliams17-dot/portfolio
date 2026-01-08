@@ -172,3 +172,8 @@ footer {
   object-fit: cover;
   display: block;
 }
+@media (max-width: 600px) {
+  .project-image-wrapper {
+    aspect-ratio: 4 / 3;
+  }
+}
